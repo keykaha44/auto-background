@@ -1,0 +1,29 @@
+/* Write your code here: */
+
+h1,
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+p.done,
+p {
+    color: #ffffff;
+}
+
+ul>p.done {
+    font-size: 0.5rem;
+}
+
+
+.box p {
+    color: firebrick;
+}
+
+.box li {
+    color: blue;
+}
+
+li.done {
+    color: green;
+}
